@@ -9,7 +9,7 @@ import SignUpScreen from './screens/SignUpScreen';
 import LoginScreen from './screens/LoginScreen';
 import CallToActionScreen from './screens/CallToActionScreen';
 
-// Define the type for your navigation stack
+// Types of navigation stack
 export type RootStackParamList = {
   Welcome: undefined;
   Feature: undefined;
@@ -18,7 +18,7 @@ export type RootStackParamList = {
   Login: undefined;
 };
 
-// Create a typed stack navigator
+// Typed stack navigator
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
 const App: React.FC = () => {
