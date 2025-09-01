@@ -1,3 +1,6 @@
+# GitHub Repo Link:
+https://github.com/ST10469550/MAST-ICT7/tree/main
+
 ## Reflection prmpt:
 “My design choices reflect Loop’s inclusive and exploratory spirit.
 By allowing users to skip sign-up, 
