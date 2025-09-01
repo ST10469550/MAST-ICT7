@@ -1,13 +1,13 @@
 # GitHub Repo Link:
 https://github.com/ST10469550/MAST-ICT7/tree/main
 
-## Reflection prmpt:
+## Reflection prompt:
 “My design choices reflect Loop’s inclusive and exploratory spirit.
 By allowing users to skip sign-up, 
 the onboarding flow feels more welcoming and less restrictive, 
 encouraging curiosity and trust.”
 
-# 01. welcome page:
+# 01. Welcome page:
 <img width="990" height="664" alt="image" src="https://github.com/user-attachments/assets/8c3bb949-cce4-4e55-a0f7-064c9feac563" />
 
 # 02. Explore without Signing-Up/Login:
